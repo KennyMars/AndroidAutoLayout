@@ -1,1 +1,1 @@
-include ':sample', ':autolayout', ':widgetsample'
+include ':autolayout'
